@@ -1,0 +1,5 @@
+kivy
+scikit-learn
+opencv-python
+numpy
+pillow
